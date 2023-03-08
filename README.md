@@ -1,2 +1,2 @@
 # GGPT
-GGwiki Play Tracker
+- 2023년 03월 08일: 최초 버전 배포
